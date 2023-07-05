@@ -1,7 +1,7 @@
 # Library-Management-System
 
-install MySql in your system, you can also refer yt video for that...
-it is important to have MySql for this application
+install MySql server in your system, you can also refer yt video for that...
+it is important to have MySql server for this application
 
 **create database for the project with the following command**
 **VERY IMPORTANT STEP**
